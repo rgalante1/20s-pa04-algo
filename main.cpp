@@ -1,8 +1,10 @@
 #include <iostream>
-#include "search.h"
+#include "test.h"
 using namespace std;
 
 int main(){
-    cout << "Hello World!" << endl;
+    Test t;
+    t.test1();
+    t.test2();
     return 0;
 }

@@ -36,7 +36,8 @@ public:
         //left-most index
         int l = 0;
         //right-most index
-        int r = size;
+        int r = size-1;
+
         while (r >= l){
             //divides array or subarray (depending on what l and r are)
             //into thirds
@@ -80,7 +81,7 @@ public:
         //left-most index
         int l = 0;
         //right-most index
-        int r = size;
+        int r = size-1;
 
         while (l <= r){
             //divide array or subarray(depending on l and r) into 2

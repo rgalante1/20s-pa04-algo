@@ -10,4 +10,6 @@ endforeach()
 
 set(CMAKE_CXX_STANDARD 14)
 add_executable(${EXE_NAME} main.cpp
-    search.h)
+    search.h
+    test.h
+    test.cpp)
