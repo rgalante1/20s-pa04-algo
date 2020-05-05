@@ -1,4 +1,4 @@
-# 20s-pa04-algo
+# Sequence Searching
 
 ## Intro:
 How/where to find a particular piece of information in a data set is a very common computer science problem. Thinking of how frequently we search, like, for example, through the use of search engines, it cannot be understated the importance of finding the most efficient methods to perform those searches. A simplified version of this problem, how to effectively search through a large sequence of data, is analyzed in this project.
